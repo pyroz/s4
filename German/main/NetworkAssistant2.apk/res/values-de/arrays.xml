@@ -7,9 +7,9 @@
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Gestern</item>
-        <item>Heute</item>
-        <item>Monat</item>
+        <item>"Gestern "</item>
+        <item>"Heute "</item>
+        <item>"Monat "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Gestern (Mobil)</item>

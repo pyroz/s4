@@ -107,6 +107,21 @@
         <item>Blau</item>
         <item>Dunkel</item>
     </string-array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing</item>
+        <item>bing</item>
+    </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -126,15 +141,21 @@
         <item>Nur über WLAN</item>
         <item>Immer</item>
     </string-array>
-    <string-array name="search_engines_de">
+    <string-array name="search_engines_rDE">
         <item>google</item>
         <item>yahoo</item>
         <item>bing</item>
     </string-array>
-    <string-array name="search_bar_search_engines_de">
+    <string-array name="search_bar_search_engines_rDE">
         <item>google</item>
         <item>yahoo</item>
         <item>bing</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Sehr groß</item>
+        <item>Groß</item>
+        <item>Normal</item>
+        <item>Klein</item>
     </string-array>
     <string-array name="bookmarks_de">
         <item>Google</item>

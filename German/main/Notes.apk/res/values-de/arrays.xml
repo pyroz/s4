@@ -2,21 +2,21 @@
 <resources>
     <string-array name="contact_entries">
         <item>Name</item>
-        <item>Nickname</item>
+        <item>Alias</item>
         <item>Telefon</item>
-        <item>E-mail</item>
-        <item>Organization</item>
-        <item>IM</item>
-        <item>SIP Telefon</item>
-        <item>Geburtstage</item>
+        <item>Email</item>
+        <item>Firma</item>
+        <item>Chat</item>
+        <item>VoIP</item>
+        <item>Geburtstag</item>
         <item>Webseite</item>
-        <item>Addresse</item>
-        <item>Notiz</item>
+        <item>Adresse</item>
+        <item>Notizen</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Klein</item>
-        <item>Default</item>
+        <item>Normal</item>
         <item>Groß</item>
-        <item>Super</item>
+        <item>Sehr Groß</item>
     </string-array>
 </resources>

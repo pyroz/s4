@@ -7,34 +7,120 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Keine Erinnerung</item>
-        <item>0 Minuten</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>30 Minuten</item>
-        <item>1 Stunde</item>
+        <item>Aus</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
         <item>1 Tag</item>
-        <item>2 Tage</item>
-        <item>1 Woche</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Keine Erinnerung</item>
-        <item>0 Minuten</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>30 Minuten</item>
-        <item>1 Stunde</item>
+        <item>Keine</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
         <item>1 Tag</item>
-        <item>2 Tage</item>
-        <item>1 Woche</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Standard</item>
+        <item>Lokaler Standard</item>
         <item>Samstag</item>
         <item>Sonntag</item>
         <item>Montag</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall Inseln</item>
+        <item>Midway-Inseln</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Los Angeles</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Denver</item>
+        <item>Costa Rica</item>
+        <item>Chicago</item>
+        <item>Mexiko-Stadt</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>New York</item>
+        <item>Venezuela</item>
+        <item>Atlantik (Barbados)</item>
+        <item>Atlantik (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Neufundland</item>
+        <item>Brasilien</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Mittlerer Atlantik</item>
+        <item>Azoren</item>
+        <item>Kap Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>West Afrika</item>
+        <item>Amman, Jordanien</item>
+        <item>Athen, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskau</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karatschi</item>
+        <item>Ural</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkutta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangun</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipeh</item>
+        <item>Seoul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidschi</item>
+        <item>Tonga</item>
     </string-array>
     <string-array name="availability">
         <item>Beschäftigt</item>
@@ -47,11 +133,11 @@
         <item>Öffentlich</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>Erstes</item>
-        <item>Zweites</item>
-        <item>Drittes</item>
-        <item>Viertes</item>
-        <item>Letztes</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Letzte</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Keine Antwort</item>
@@ -60,37 +146,37 @@
         <item>Nein</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Nur diesen Termin</item>
-        <item>Diesen &amp;amp; weitere Termine</item>
+        <item>Nur dieser Termin</item>
+        <item>Dieser und zukünftige Termine</item>
         <item>Alle Termine</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Diesen &amp;amp; weitere Termine</item>
+        <item>Dieser und zukünftige Termine</item>
         <item>Alle Termine</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Nur diesen Termin</item>
-        <item>Alle Termine dieser Art</item>
+        <item>Alle Termine in der Reihe</item>
     </string-array>
     <string-array name="buttons_list">
         <item>Tag</item>
         <item>Woche</item>
         <item>Monat</item>
-        <item>Jahr</item>
+        <item>Terminübersicht</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Nur noch ein paar Minuten. Ich beeile mich.</item>
-        <item>Ich bin in 10 Minuten da.</item>
-        <item>Fangt schonmal ohne mich an.</item>
-        <item>"Entschuldigung, ich schaffe es nicht. Müssen wir wohl verschieben."</item>
+        <item>Ich komme ein paar Minuten später.</item>
+        <item>Ich werden in 10 Minuten da sein.</item>
+        <item>Fangen Sie schon ohne mich an!</item>
+        <item>Entschuldigung. Wir müssen den Termin verschieben.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Immer</item>
-        <item>Nur wenn der Klingelton lautlos geschaltet ist</item>
-        <item>Nie</item>
+        <item>Nur wenn lautlos</item>
+        <item>Niemals</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Durchsichtig schwarz</item>
+        <item>Schwarz Transparent</item>
         <item>Weißer Hintergrund</item>
     </string-array>
 </resources>

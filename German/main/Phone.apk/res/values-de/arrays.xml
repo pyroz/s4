@@ -5,9 +5,33 @@
         <item>Rufnummer unterdrücken</item>
         <item>Rufnummer anzeigen</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Nur EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo Auto</item>
+        <item>GSM/WCDMA Auto</item>
+        <item>Nur WCDMA</item>
+        <item>Nur GSM</item>
+        <item>GSM/WCDMA bevorzugt</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
         <item>CDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_lte">
+        <item>7</item>
+        <item>4</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Englisch</item>

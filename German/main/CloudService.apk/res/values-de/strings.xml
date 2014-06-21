@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Xiaomi-Synchronisierung</string>
-  <string name="find_device">Gerät finden</string>
-  <string name="find_device_stop_noise">\"OK\" berühren, um den Alarmton zu beenden</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Synchronisiere Fotos nur über WLAN um zusätzliche Kosten zu vermeiden.</string>
-  <string name="pref_title_sync_contacts_title">Kontakte synchronisieren</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Bilder nur mit WLAN-Verbindung anzeigen</string>
-  <string name="sub_sync_item_sms_summary">Nachrichten nur über WLAN synchronisieren um zusätzliche Kosten zu vermeiden.</string>
-  <string name="sub_sync_item_sms_title_wifi_only">SMS/MMS nur mit WLAN-Verbindung synchronisieren</string>
-  <string name="sync_item_sms_summary">SMS-Nachrichten werden automatisch synchronisiert</string>
-  <string name="sync_item_sms_title">SMS synchronisieren</string>
+    <string name="app_name">MiCloud Sync</string>
+    <string name="sync_item_sms_title">SMS-Sync</string>
+    <string name="sync_item_sms_summary">Einschalten, nachdem die Nachrichten synchronisiert wurden.</string>
+    <string name="sub_sync_item_sms_title_wifi_only">MMS-Sync: Nur über WLAN</string>
+    <string name="sub_sync_item_sms_summary">Reduziert den Datenverbrauch</string>
+    <string name="pref_title_sync_my_profile_title">Profil syncen</string>
+    <string name="pref_title_sync_contacts_title">Kontakte Synchronisieren</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Foto anzeigen: Nur über WLAN</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Reduziert den Datenverbrauch</string>
+    <string name="find_device_stop_noise">Drücken Sie \"OK\" um den Ton zu beenden</string>
+    <string name="find_device_noise_title">Geräteton suchen</string>
+    <string name="sync_item_calllog_title">Anruflisten synchronisieren</string>
+    <string name="sync_item_calllog_summary">Anrufaufnahmen von diesem telefon synchronisieren</string>
+    <string name="find_device">Gerät suchen</string>
 </resources>
