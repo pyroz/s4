@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarm ist für weniger als 1 Minute gesetzt.</item>
+        <item>Alarm ist für %1$s gesetzt.</item>
+        <item>Alarm ist für %2$s gesetzt.</item>
+        <item>Alarm ist für %1$s und %2$s gesetzt.</item>
+        <item>Alarm ist für %3$s gesetzt.</item>
+        <item>Alarm ist für %1$s und %3$s gesetzt.</item>
+        <item>Alarm ist für %2$s und %3$s gesetzt.</item>
+        <item>Alarm ist für %1$s, %2$s, und %3$s gesetzt.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nie</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nichts tun</item>
+        <item>Schlummern</item>
+        <item>Ausstellen</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarm wird in weniger als 1 Minute klingeln</item>
+        <item>Alarm wird in %1$s klingeln</item>
+        <item>Alarm wird in %2$s klingeln</item>
+        <item>Alarm wird in %1$s %2$s klingeln</item>
+        <item>Alarm wird in %3$s klingeln</item>
+        <item>Alarm wird in %1$s %3$s klingeln</item>
+        <item>Alarm wird in %2$s %3$s klingeln</item>
+        <item>Alarm wird in %1$s %2$s %3$s klingeln</item>
+    </string-array>
+    <string-array name="days">
+        <item>Gestern</item>
+        <item>Heute</item>
+        <item>Morgen</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>Werktags</item>
+        <item>Mo bis Fr</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>Mo bis Fr</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+</resources>

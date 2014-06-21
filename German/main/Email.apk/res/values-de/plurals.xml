@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">Verschiebe Nachrichten</item>
+        <item quantity="one">Verschiebe Nachricht</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">1 ausgewählt</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Verschiebe %1$d Unterhaltungen</item>
+        <item quantity="one">Verschiebe Unterhaltung</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Entwürfe</item>
+        <item quantity="one">Entwurf</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Sollen %1$d Unterhaltungen gelöscht werden?</item>
+        <item quantity="one">Soll diese Unterhaltung gelöscht werden?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Diese Unterhaltungen enthält zusammengeführte Nachrichten, sollen diese gelöscht werden?</item>
+        <item quantity="one">Diese Unterhaltung enthält zusammengeführte Nachrichten, sollen diese gelöscht werden?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Sollen diese %1$d Unterhaltungen archiviert werden?</item>
+        <item quantity="one">Soll diese Unterhaltung archiviert werden?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Sollen Entwürfe aus diesen %1$d Unterhaltungen gelöscht werden?</item>
+        <item quantity="one">Sollen Entwürfe aus dieser Unterhaltung gelöscht werden?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d unmarkierte Unterhaltungen.</item>
+        <item quantity="one">%1$d unmarkierte Unterhaltung.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> stumm geschaltet.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> stumm geschaltet.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als Spam gemeldet.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als Spam gemeldet.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> nicht als Spam gemeldet.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> nicht als Spam gemeldet.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als nicht wichtig markiert.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als nicht wichtig markiert.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als Phishing markiert.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als Phishing markiert.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archiviert.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archiviert.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gelöscht.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gelöscht.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Order verändert.</item>
+        <item quantity="one">Order verändert.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d neue Nachrichten. Zeigen.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ältere Nachrichten</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ungelesen</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d Nachrichten werden unwiederbringlich gelöscht.</item>
+        <item quantity="one">%1$d Nachricht wird unwiederbringlich gelöscht.</item>
+    </plurals>
+</resources>

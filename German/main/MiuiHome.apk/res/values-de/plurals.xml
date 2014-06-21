@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">\"%1$s\" und %2$d andere Apps entfernen?</item>
+        <item quantity="one">\"%s\" entfernen</item>
+        <item quantity="two">\"%s\" und 1 andere App entfernen?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ Apps entfernen</item>
+        <item quantity="one">App entfernen</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">Kann \"%1$s\" und %2$d andere Apps nicht entfernen</item>
+        <item quantity="one">Kann \"%s\" nicht entfernen</item>
+        <item quantity="two">Kann \"%s\" und 1 andere App nicht entfernen</item>
+    </plurals>
+</resources>

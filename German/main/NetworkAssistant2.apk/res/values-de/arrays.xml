@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Gestern</item>
+        <item>Heute</item>
+        <item>Monat</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Gestern (Mobil)</item>
+        <item>Heute (Mobil)</item>
+        <item>Monat (Mobil)</item>
+        <item>Gestern WLAN</item>
+        <item>Heute WLAN</item>
+        <item>Monat WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Gestern (Daten)</item>
+        <item>Heute (Daten)</item>
+        <item>Monat (Daten)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 Sek</item>
+        <item>4 Sek</item>
+        <item>5 Sek</item>
+        <item>6 Sek</item>
+        <item>7 Sek</item>
+        <item>8 Sek</item>
+        <item>9 Sek</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Mobil Verbrauch</item>
+        <item>WLAN Verbrauch</item>
+        <item>Gesamtverbrauch</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>SMS Vorlage automatisch einstellen</item>
+        <item>SMS Vorlage manuell einstellen</item>
+    </string-array>
+</resources>

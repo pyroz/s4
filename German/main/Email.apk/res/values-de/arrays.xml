@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Sehr kleine Textgröße</item>
+        <item>Kleine Textgröße</item>
+        <item>Normale Textgröße</item>
+        <item>Große Textgröße</item>
+        <item>Sehr große Textgröße</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Antworten</item>
+        <item>Allen antworten</item>
+        <item>Weiterleiten</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Erfolgreich</item>
+        <item>Keine Verbindung.</item>
+        <item>"Anmeldung nicht möglich."</item>
+        <item>Sicherheitsfehler.</item>
+        <item>"Synchronisierung nicht möglich."</item>
+        <item>Interner Fehler</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Häufig verwendet</item>
+        <item>Alle Ordner</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Neuer</item>
+        <item>Älter</item>
+        <item>Unterhaltungsliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Zeige neuere Unterhaltungen nach dem Löschen</item>
+        <item>Zeige ältere Unterhaltungen nach dem Löschen</item>
+        <item>Zeige Unterhaltungsliste nach dem Löschen</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Zeige nur das Archiv</item>
+        <item>Zeige nur Gelöschte</item>
+        <item>Zeige Archiv &amp;amp; Gelöschte</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Zeige nur das Archiv</item>
+        <item>Zeige nur Gelöschte</item>
+        <item>Zeige Archiv &amp;amp; Gelöschte</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Standard</item>
+        <item>Format</item>
+        <item>Name</item>
+        <item>Sender</item>
+        <item>Datum</item>
+    </string-array>
+</resources>

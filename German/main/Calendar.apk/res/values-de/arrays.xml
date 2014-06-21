@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Benachrichtigung</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Keine Erinnerung</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Keine Erinnerung</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Standard</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+        <item>Montag</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Beschäftigt</item>
+        <item>Verfügbar</item>
+        <item>Vorläufig</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standard</item>
+        <item>Privat</item>
+        <item>Öffentlich</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Erstes</item>
+        <item>Zweites</item>
+        <item>Drittes</item>
+        <item>Viertes</item>
+        <item>Letztes</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Keine Antwort</item>
+        <item>Ja</item>
+        <item>Vielleicht</item>
+        <item>Nein</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Nur diesen Termin</item>
+        <item>Diesen &amp;amp; weitere Termine</item>
+        <item>Alle Termine</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Diesen &amp;amp; weitere Termine</item>
+        <item>Alle Termine</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Nur diesen Termin</item>
+        <item>Alle Termine dieser Art</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Tag</item>
+        <item>Woche</item>
+        <item>Monat</item>
+        <item>Jahr</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Nur noch ein paar Minuten. Ich beeile mich.</item>
+        <item>Ich bin in 10 Minuten da.</item>
+        <item>Fangt schonmal ohne mich an.</item>
+        <item>"Entschuldigung, ich schaffe es nicht. Müssen wir wohl verschieben."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Immer</item>
+        <item>Nur wenn der Klingelton lautlos geschaltet ist</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Durchsichtig schwarz</item>
+        <item>Weißer Hintergrund</item>
+    </string-array>
+</resources>

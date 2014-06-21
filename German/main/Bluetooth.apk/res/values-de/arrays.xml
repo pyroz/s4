@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Ein Blatt pro Seite</item>
+        <item>Zwei Blätter pro Seite</item>
+        <item>Vier Blätter pro Seite</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Hochformat</item>
+        <item>Querformat</item>
+        <item>Hochformat umgedreht</item>
+        <item>Querformat umgedreht</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Einseitig</item>
+        <item>Zweiseitig an langer Kante</item>
+        <item>Zweiseitig an kurzer Kante</item>
+    </string-array>
+</resources>

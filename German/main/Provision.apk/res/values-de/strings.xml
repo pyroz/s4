@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="continues">Fortfahren</string>
+    <string name="next">Weiter</string>
+    <string name="other_service_google_location">Google Standortdienst</string>
+    <string name="other_service_google_location_use">Standort &amp; Google Suche</string>
+    <string name="other_service_google_location_use_help">Erlaubt dem Google Standortdienst anonyme Standortdaten zu erfassen. Die Erfassung läuft auch ohne eine ausgeführte Anwendung im Hintergrund weiter.</string>
+    <string name="other_service_google_location_use_summary">Lassen Sie Google Ihren Standort nutzen um die Suchergebnisse und andere Dienste zu verbessern</string>
+    <string name="other_service_label">Andere Dienste</string>
+    <string name="other_service_location">Standortdienst</string>
+    <string name="other_service_location_summary">Standortdienst erlaubt Maps und anderen Anwendungen ihren Standort per GPS zu ermitteln</string>
+    <string name="other_service_permission_manager">App Rechte verwalten</string>
+    <string name="other_service_permission_manager_summary">Überwachung der Apps für Sicherheit und Privatsphäre</string>
+    <string name="other_service_user_experience">Benutzer Feedback Programm</string>
+    <string name="other_service_user_experience_summary0">"Wir zählen auf Sie, das Sie unsere Produkte und Funktionen nutzen und uns durch ihr Feedback helfen. Ihr Feedback wird geschützt per "</string>
+    <string name="other_service_user_experience_summary1">Datenschutz</string>
+    <string name="setup_complete_info" />
+    <string name="setup_complete_label">Dankeschön</string>
+    <string name="setup_complete_start">Einrichtung abgeschlossen</string>
+    <string name="setup_complete_summary">Einrichtung abgeschlossen!</string>
+    <string name="shutdown">Ausschalten</string>
+    <string name="sim_card_detection_dialog_message">Suche SIM-Karte. Bitte warten.</string>
+    <string name="sim_card_detection_info" />
+    <string name="sim_card_detection_label">SIM-Karte</string>
+    <string name="sim_card_detection_status_absent">Kein SIM-Karte erkannt</string>
+</resources>
