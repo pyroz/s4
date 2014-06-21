@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>SMS</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_json_key">
+        <item>wind1</item>
+        <item>紫外线指数</item>
+        <item>穿衣指数</item>
+        <item>舒适度指数</item>
+        <item>洗车指数</item>
+        <item>晾晒指数</item>
+        <item>晨练指数</item>
+        <item>旅游指数</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Windgeschwindigkeit:</item>
+        <item>UV:</item>
+        <item>Kleidung:</item>
+        <item>Komfort:</item>
+        <item>Auto waschen:</item>
+        <item>Trocken:</item>
+        <item>Frühsport:</item>
+        <item>Freizeit:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Klar</item>
+        <item>Bewölkt</item>
+        <item>Bedeckt</item>
+        <item>Nebelig</item>
+        <item>Schweres Unwetter</item>
+        <item>Unwetter</item>
+        <item>Sehr starker Regen</item>
+        <item>Gewitter</item>
+        <item>Regenschauer</item>
+        <item>Starker Regen</item>
+        <item>Regen</item>
+        <item>Nieselregen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Vereinzelter Schneefall</item>
+        <item>Starker Schneefall</item>
+        <item>Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Leichter Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Hagel</item>
+        <item>Staub</item>
+        <item>Dunst</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Nicht verfügbar</item>
+        <item>Passend</item>
+        <item>Gut</item>
+        <item>Wenn möglich vermeiden</item>
+        <item>Nicht zu empfehlen</item>
+        <item>Ideal</item>
+        <item>Mäßig</item>
+        <item>Schwach</item>
+        <item>Mittel</item>
+        <item>Stark</item>
+        <item>Sehr stark</item>
+        <item>Kühl</item>
+        <item>Komfortabel</item>
+        <item>Sehr Heiß</item>
+        <item>Heiß</item>
+        <item>Warm</item>
+        <item>Kühl</item>
+        <item>Kühler</item>
+        <item>Kalt</item>
+        <item>Frost</item>
+        <item>Hoch</item>
+        <item>Mittel</item>
+        <item>Niedrig</item>
+        <item>Klarer Himmel</item>
+        <item>Bewölkt</item>
+        <item>Regen</item>
+        <item>Sandsturm</item>
+        <item>Schnee</item>
+        <item>Relativ gute Bedingungen</item>
+        <item>Geeignete Bedingungen</item>
+        <item>Bewölkt</item>
+        <item>Weniger als Ideal</item>
+        <item>Ideale Bedingungen</item>
+        <item>Schlechte Bedingungen</item>
+        <item>Durchschnittliche Bedingungen</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Seien Sie draußen vorsichtig!</item>
+        <item>Seien Sie draußen vorsichtig!</item>
+        <item>Seien Sie draußen vorsichtig!</item>
+        <item>Seien Sie draußen vorsichtig!</item>
+        <item>Vorsicht! Die Straßen sind rutschig.</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Benutzen Sie Sonnencreme.</item>
+        <item>Es wird heute bewölkt.</item>
+        <item>Bleiben Sie zuhause.</item>
+        <item>Fahren Sie vorsichtig</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Es kommt draußen wirklich was runter!</item>
+        <item>Nehmen Sie eine Mütze und Schal mit.</item>
+        <item>Bundle up!</item>
+        <item>Tragen Sie eine Mütze und Schal!</item>
+        <item>Tragen Sie eine Mütze und Schal!</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Es kommt draußen wirklich was runter!</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Bleiben Sie zuhause.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>Es ist $ in @.</item>
+        <item>Temperatur: % Grad.</item>
+        <item>Nehmen Sie einen Regenschirm mit!</item>
+        <item>Versuchen Sie trocken zu bleiben! :)</item>
+        <item>Wenn Sie draußen Wäsche trocknen, vergessen Sie nicht sie später reinzuholen</item>
+        <item>Fahren wenn möglich vermeiden.</item>
+        <item>Fahren Sie vorsichtig!</item>
+        <item>Seien Sie draußen vorsichtig. Es ist rutschig.</item>
+        <item>Nehmen sie sich Zeit und seien Sie draußen vorsichtig.</item>
+        <item>Seien Sie draußen vorsichtig.</item>
+        <item>Versuchen Sie nicht rauszugehen.</item>
+        <item>Tragen Sie eine Sonnenbrille.</item>
+        <item>Benutzen sie Sonnencreme und Sonnenbrille.</item>
+        <item>Es ist windig. Ziehen Sie eine Jacke an.</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Ziehen Sie eine Jacke an.</item>
+        <item>Tragen Sie eine Maske.</item>
+        <item>Nehmen sie Handschuhe und Schal mit.</item>
+        <item>Es ist heiß drausen!</item>
+        <item>Halten sie sich kühl!</item>
+        <item>Bundle up!</item>
+        <item>Die Temperatur kann fallen...</item>
+        <item>Halten sie sich warm!</item>
+        <item>Benutzen Sie Ohrenschützer!</item>
+        <item>Gehen Sie raus und genießen das Wetter.</item>
+        <item>Gehen sie zum laufen und etwas sonne nach draußen!</item>
+        <item>Es ist ein guter Tag um Wäsche zu trocknen!</item>
+        <item>Tragen sie ein Jacke!</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>6</item>
+        <item>Sonnencreme nicht vergessen.</item>
+        <item>7</item>
+        <item>Sonnencreme nicht vergessen.</item>
+        <item>8</item>
+        <item>Sonnencreme nicht vergessen.</item>
+        <item>9</item>
+        <item>Verwenden Sie Sonnencreme wenn Sie rausgehen!</item>
+        <item>10</item>
+        <item>Verwenden Sie Sonnencreme wenn Sie rausgehen!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>11</item>
+        <item>Leichte Jacke</item>
+        <item>12</item>
+        <item>Leichte Jacke</item>
+        <item>13</item>
+        <item>Sommer Kleidung</item>
+        <item>14</item>
+        <item>Sommer Kleidung</item>
+        <item>15</item>
+        <item>Leichte Jacke</item>
+        <item>16</item>
+        <item>Remember to bring additional layers!</item>
+        <item>17</item>
+        <item>Jacke mitnehmen!</item>
+        <item>18</item>
+        <item>Bündeln!</item>
+        <item>19</item>
+        <item>Bündeln!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>1</item>
+        <item>Es ist ein guter Tag für Frühsport</item>
+        <item>2</item>
+        <item>Bring layers!</item>
+        <item>3</item>
+        <item>Bring layers!</item>
+        <item>4</item>
+        <item>Drinnen Übungen machen!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>20</item>
+        <item>Temperatur bleibt stabil</item>
+        <item>21</item>
+        <item>Kalt und Angenehm</item>
+        <item>22</item>
+        <item>Temperatur unbeständig</item>
+        <item>23</item>
+        <item>Klarer Himmel und ungemütliche Temperaturen</item>
+        <item>24</item>
+        <item>Heiß und feucht!</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>1</item>
+        <item>Ein guter Tag um das Auto zu waschen!</item>
+        <item>2</item>
+        <item>Ein guter Tag um das Auto zu waschen!</item>
+        <item>3</item>
+        <item>Es wird regnen! Warten Sie noch mit der Autowäsche.</item>
+        <item>25</item>
+        <item>Es wird regnen! Warten Sie noch mit der Autowäsche.</item>
+        <item>26</item>
+        <item>Es wurde ein Sandsturm vorhergesagt! Warten Sie noch mit der Autowäsche.</item>
+        <item>27</item>
+        <item>Es wird schneien. Warten Sie noch mit der Autowäsche.</item>
+        <item>4</item>
+        <item>Warten Sie noch mit der Autowäsche.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>28</item>
+        <item>Hängen Sie Ihre Wäsche Nachmittags zum trocknen auf.</item>
+        <item>29</item>
+        <item>Hängen Sie Ihre Wäsche zum Trocknen auf.</item>
+        <item>30</item>
+        <item>Es ist bewölkt, aber mit den hohen Temperaturen, wird Ihre Kleidung noch trocken.</item>
+        <item>1</item>
+        <item>Es ist ein guter Tag um Wäsche zu trocknen.</item>
+        <item>3</item>
+        <item>Den ganzen Tag vereinzelte Regenschauer.</item>
+        <item>5</item>
+        <item>Gute Trocknungsbedingungen.</item>
+        <item>4</item>
+        <item>Trocknen Sie Ihre Wäsche drinnen.</item>
+        <item>31</item>
+        <item>Trocknen Sie Ihre Wäsche drinnen.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Nicht verfügbar</item>
+        <item>32</item>
+        <item>Klar und Sonnig mit guten Temperaturen.</item>
+        <item>2</item>
+        <item>Angenehme und stabile Temperaturen.</item>
+        <item>1</item>
+        <item>Angenehme und stabile Temperaturen.</item>
+        <item>3</item>
+        <item>Das Wetter ist heute unbeständig.</item>
+        <item>33</item>
+        <item>Das Wetter ist heute unbeständig.</item>
+        <item>34</item>
+        <item>Klarer Himmel und leichter Wind.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Bundle up!</item>
+        <item>Wind</item>
+        <item>Angenehm</item>
+        <item>N</item>
+        <item>Nicht verfügbar</item>
+    </string-array>
+</resources>
