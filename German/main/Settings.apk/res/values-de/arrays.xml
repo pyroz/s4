@@ -133,7 +133,7 @@
         <item>Nicht verbunden</item>
         <item>Nicht erfolgreich</item>
         <item>Blockiert</item>
-        <item>Vorübergehende schlechte Verbindung</item>
+        <item>Schlechte Internetverbindung wird vorübergehend vermieden.</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -147,7 +147,7 @@
         <item>Nicht verbunden</item>
         <item>Nicht erfolgreich</item>
         <item>Blockiert</item>
-        <item>Vorübergehende schlechte Verbindung</item>
+        <item>Schlechte Internetverbindung wird vorübergehend vermieden.</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push-Taste</item>
@@ -205,7 +205,7 @@
         <item>Statisch</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Keine</item>
+        <item>Keinen</item>
         <item>Manuell</item>
     </string-array>
     <string-array name="emergency_tone_entries">
@@ -271,13 +271,26 @@
         <item>Dauer der Animation: 5x</item>
         <item>Dauer der Animation: 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Keine</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi und 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Keine</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafik)</item>
+        <item>Aufrufliste für glGetError</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardlimit</item>
         <item>Keine Hintergrundprozesse</item>
-        <item>Höchstens ein Prozess</item>
-        <item>Höchstens zwei Prozesse</item>
-        <item>Höchstens drei Prozesse</item>
-        <item>Höchstens vier Prozesse</item>
+        <item>Höchstens 1 Prozess</item>
+        <item>Höchstens 2 Prozesse</item>
+        <item>Höchstens 3 Prozesse</item>
+        <item>Höchstens 4 Prozesse</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP-VPN</item>
@@ -302,7 +315,17 @@
         <item>Chimp</item>
         <item>Monkey</item>
     </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Nachfragen</item>
+        <item>Niemals</item>
+        <item>Immer</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
+        <item>Stark</item>
+        <item>Mittel</item>
+        <item>Schwach</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
         <item>Stark</item>
         <item>Mittel</item>
         <item>Schwach</item>
@@ -422,15 +445,20 @@ Der Computer wird es automatisch öffnen und die Telefondaten lesen"</item>
         <item>Erlauben</item>
         <item>Verweigern</item>
     </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Single Mik Rauschunterdrückung</item>
+        <item>Dual Mik Rauschunterdrückung</item>
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gesichtserkennung</item>
         <item>Muster</item>
         <item>Pin</item>
         <item>Passwort</item>
     </string-array>
-    <string-array name="phone_call_noise_suppression_title">
-        <item>Single Mik Rauschunterdrückung</item>
-        <item>Dual Mik Rauschunterdrückung</item>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automatisch verbinden</item>
+        <item>Manuell verbinden</item>
+        <item>Immer fragen</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 Minuten</item>
@@ -453,10 +481,5 @@ Der Computer wird es automatisch öffnen und die Telefondaten lesen"</item>
         <item>Netzwerk ist aufgrund des hohen Datenverkehrs langsam</item>
         <item>Netzwerk ist aufgrund der schwachen Signalstärke langsam</item>
         <item>Moving…</item>
-    </string-array>
-    <string-array name="media_feedback_level_entries">
-        <item>Stark</item>
-        <item>Mittel</item>
-        <item>Schwach</item>
     </string-array>
 </resources>

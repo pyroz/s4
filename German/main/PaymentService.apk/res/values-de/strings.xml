@@ -11,7 +11,7 @@
     <string name="title_bind_phone">Binding mobile phone No.</string>
     <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
     <string name="button_sms_code">Bestätigen</string>
-    <string name="title_sms_code">Please enter the mobile phone verification code</string>
+    <string name="title_sms_code">Bitte Bestätigungscode eingeben</string>
     <string name="summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
     <string name="sms_code_hint">Mobile phone verification code</string>
     <string name="sms_code_error">Mobile phone verification code error, please get again</string>
@@ -214,9 +214,10 @@ Wir werden das innerhalb von zwei Werktagen überprüfen"</string>
     <string name="btn_net_connection_retry">Wiederholen</string>
     <string name="pay_record_typeall">Alle</string>
     <string name="mibi_license_title">Nutzungsvereinbarung</string>
-    <string name="mibi_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. 
-
-You need an internet connection to use Mi Credit."</string>
+    <string name="mibi_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. You need an internet connection to use Mi Credit."</string>
+    <string name="mibi_license_net_prompt_title">Internetverbindung erforderlich</string>
+    <string name="mibi_license_net_prompt_message">Using the Mi Credit app may increase your data usage.</string>
+    <string name="mibi_license_checkbox_prompt">Nicht mehr erinnern</string>
     <string name="mibi_license_message_span">MiCredit Nutzungsvereinbarung</string>
     <string name="btn_agree">Zustimmen</string>
     <string name="security_setting">Sicherheitseinstellungen</string>
@@ -256,6 +257,8 @@ You need an internet connection to use Mi Credit."</string>
     <string name="title_nopassword">Nicht erforderlich für kleine Beträge</string>
     <string name="title_password_threshold">Tageslimit = %1$s RMB</string>
     <string name="title_nopassword_dialog">Tageslimit</string>
+    <string name="title_prompt">Benachrichtigungen</string>
+    <string name="title_need_prompt">Notify me connecting to the internet as openning</string>
     <string name="button_confirm">Bestätigen</string>
     <string name="button_next">Weiter</string>
     <string name="scan_prompt_number">Scan %1$s prepaid card number</string>

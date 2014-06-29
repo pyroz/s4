@@ -126,7 +126,7 @@
     <string name="net_lose_connected">Verbindung unterbrochen.</string>
     <string name="wangpan_root_path">Kuaipan</string>
     <string name="kuaipan_over_space">Nicht genügend freier Speicher.</string>
-    <string name="kuaipan_tech_support">Anmelden bei KuaiPan.cn</string>
+    <string name="kuaipan_tech_support">Anmelden bei kuaipan.cn</string>
     <string name="no_tasks">Keine Aufgaben.</string>
     <string name="no_more_space">Nicht genügend Speicherplatz.</string>
     <string name="sd_full">Ihr interner Telefonspeicher ist voll.</string>
@@ -245,8 +245,8 @@ Kostenlosen Speicherplatz hinzugefügt: %1$s"</string>
     <string name="name_illegal">Name eingeben</string>
     <string name="open_changed_file_title">Datei wurde geändert</string>
     <string name="open_changed_file_message">"Die Datei die Sie öffnen möchten wurde geändert. Sie können:
-1. Download (Lokale Datei aktualisieren)
-2. Upload (Online Datei aktualisieren)"</string>
+1. die Datei erneut runterladen
+2. in Ihr KuaiPan konto hochladen"</string>
     <string name="ui_filechange_btn_upload">Dateien hochladen</string>
     <string name="folder_exist">Der Ordner ist bereits vorhanden</string>
     <string name="unmount_inform_text">USB-Speicher trennen?</string>
@@ -285,6 +285,11 @@ Kostenlosen Speicherplatz hinzugefügt: %1$s"</string>
     <string name="share_box_receive">Empfangen</string>
     <string name="file_not_exist">Datei nicht vorhanden</string>
     <string name="open_file_failed">Öffnen fehlgeschlagen</string>
+    <string name="system_alert">Erinnern</string>
+    <string name="network_connect_confirm_des">Verwendung von Kuaipan erfordert Onlinezugriff. Erlauben?</string>
+    <string name="operation_agree">Zustimmen</string>
+    <string name="never_notify_network_connect">Merken</string>
+    <string name="connect_network_setting_des">Erinnern bei Onlinezugriff</string>
     <string name="ui_bar_txt_upload_progress">Noch %1$d Datei(en) zum hochladen</string>
     <string name="file_cleanup">Datei Bereinigung</string>
     <string name="scanning_on_going">Suche...</string>

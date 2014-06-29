@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="search_in_web">Suche im Web</string>
+    <string name="search_in_app_store">Suche im Market</string>
     <string name="app_name">Suche</string>
     <string name="search_widget">Suche</string>
     <string name="remove_from_history">Diesen Eintrag wirklich aus dem Verlauf löschen?</string>
@@ -31,6 +33,4 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browser-Einstellungen."</st
     <string name="google_search_hint">Google Suche</string>
     <string name="google_search_description">Google Suchvorschläge</string>
     <string name="voice_search_hint_title">Sprechen:</string>
-    <string name="search_in_web">Suche im Web</string>
-    <string name="search_in_app_store">Suche im Market</string>
 </resources>

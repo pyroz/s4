@@ -50,6 +50,7 @@
     <string name="no_vm_number">Keine Mailboxnummer</string>
     <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailboxnummer gespeichert.</string>
     <string name="add_vm_number_str">Nummer hinzufügen</string>
+    <string name="puk_unlocked">Ihre SIM-Karte wurde entsperrt. Ihr Telefon wird nun entsperrt...</string>
     <string name="label_ndp">SIM Netzwerk PIN</string>
     <string name="sim_ndp_unlock_text">Entsperren</string>
     <string name="sim_ndp_dismiss_text">Verwerfen</string>
@@ -339,6 +340,7 @@ Nächste beginnt in %2$d Tagen (%3$s)"</string>
     <string name="card_title_hanging_up">Auflegen</string>
     <string name="card_title_in_call">Im Gespräch</string>
     <string name="card_title_my_phone_number">Meine Nummer ist %s</string>
+    <string name="notification_dialing">Wählen</string>
     <string name="notification_missedCallTitle">Anruf in Abwesenheit</string>
     <string name="notification_missedCallsTitle">Anrufe in Abwesenheit</string>
     <string name="notification_missedCallsMsg">%s Anrufe in Abwesenheit</string>
@@ -426,7 +428,6 @@ Versuchen Sie es erneut oder rufen Sie den Kundenservice an."</string>
     <string name="alert_dialog_yes">Ja</string>
     <string name="alert_dialog_no">Nein</string>
     <string name="alert_dialog_dismiss">Verwerfen</string>
-    <string name="absent_num">ABSENT NUMBER</string>
     <string name="voicemail_provider">Mailbox-Dienst</string>
     <string name="voicemail_settings">Mailbox-Einstellungen</string>
     <string name="voicemail_number_not_set">&lt;Nicht festgelegt></string>
@@ -556,6 +557,7 @@ Versuchen Sie es erneut oder rufen Sie den Kundenservice an."</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrieren</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrieren</string>
     <string name="voicemail_notification_ringtone_title">Klingelton</string>
+    <string name="default_notification_description">Standard (%1$s)</string>
     <string name="voicemail_notification_vibrate_when_default">never</string>
     <string name="ringtone_title">Klingelton</string>
     <string name="vibrate_on_ring_title">Bei Anruf vibrieren</string>
@@ -832,7 +834,6 @@ Achtung: Das Telefon wird bei erneuter Fehleingabe gesperrt!"</string>
     <string name="preferred_network_type_3g_only_warning_miui">Sollte ihre SIM-Karte kein 3G unterstützen, werden Sie keinen Empfang haben.</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Mobilnetz Einstellungen</string>
     <string name="puk_lock_warning_miui">"
 Achtung: SIM-Karte wird bei erneuter Fehleingabe dauerhaft gesperrt!"</string>
@@ -912,8 +913,8 @@ Achtung: SIM-Karte wird bei erneuter Fehleingabe dauerhaft gesperrt!"</string>
     <string name="turn_off_auto_select_confirm_message_miui">Empfang und Netzwerk ist möglicherweise nicht verfügbar.</string>
     <string name="network_work_query_failed_message_miui">"Netzwerkabfrage ist fehlgeschlagen. Drücken Sie 'Abbrechen' um das bevorzugten Netzwerk automatisch zu wählen oder drücken Sie 'OK' um es erneut zu versuchen"</string>
     <string name="sum_select_automatically_option_miui">Automatisch ausgewähltes bevorzugtes Netzwerk, %s</string>
-    <string name="register_network_failed_title_miui">Kein Netzwerkverbindung</string>
-    <string name="register_network_failed_message_miui">Anmeldung beim gewählten Netzwerk nicht möglich. Möchten Sie das bevorzugte Netzwerk automatisch wählen?</string>
+    <string name="select_network_automatic_hint_miui">"Anmeldung am ausgewählten Netzwerk nicht möglich.
+ Automatisch bevorzugtes Netzwerk ausgewählt"</string>
     <string name="next_miui">Weiter</string>
     <string name="turn_off_miui">Ausschalten</string>
     <string name="back_miui">Zurück</string>
@@ -930,6 +931,7 @@ Achtung: SIM-Karte wird bei erneuter Fehleingabe dauerhaft gesperrt!"</string>
     <string name="t9_indexing_rebuilding_message">T9 Index wird neu erstellt...</string>
     <string name="t9_indexing_method_pinyin">PinYin</string>
     <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+    <string name="network_forbidden_miui">%s (Nicht erlaubt)</string>
     <string name="label_rn1dp">UIM Netzwerk1 PIN</string>
     <string name="label_rn2dp">UIM Netzwerk2 PIN</string>
     <string name="label_rhrpd">UIM HRDP PIN</string>
@@ -946,6 +948,7 @@ Achtung: SIM-Karte wird bei erneuter Fehleingabe dauerhaft gesperrt!"</string>
     <string name="rnw2_unlock_failed">UIM-Netzwerk2 Entsperranfrage nicht erfolgreich.</string>
     <string name="rhrpd_unlock_failed">UIM-HRPD Entsperranfrage nicht erfolgreich.</string>
     <string name="rsp_unlock_failed">UIM-Dienstanbieter Entsperranfrage nicht erfolgreich.</string>
+    <string name="rc_unlock_failed">Entsperrung der Firmen-RUIM fehlgeschlagen.</string>
     <string name="ruim_unlock_failed">UIM-Entsperranfrage nicht erfolgreich.</string>
     <string name="description_direction_right">Rechts für %s.</string>
     <string name="description_direction_left">Links für %s.</string>
@@ -963,9 +966,25 @@ Achtung: SIM-Karte wird bei erneuter Fehleingabe dauerhaft gesperrt!"</string>
     <string name="enable_antispam_strange_title">Unbekannte Anrufe Lautlos</string>
     <string name="enable_antispam_strange_summary">Stellt den ersten Anruf von einer unbekannten Nummer auf lautlos.</string>
     <string name="phone_info_divider">" ｜ "</string>
-    <string name="information">Information</string>
-    <string name="duringcall">Während eines Telefonats nicht erlaubt</string>
-    <string name="data_connected_change">Unable to change networks while data service is in use. Stop using current data service and select another available network?</string>
+    <string name="lable_call_barring">Anrufsperre</string>
+    <string name="lable_all_outgoing">Alle ausgehenden Anrufe</string>
+    <string name="lable_all_outgoing_international">Internationale ausgehenden Anrufe</string>
+    <string name="lable_all_out_except">Internationale ausgehenden Anrufe auser ins Heimatnetz</string>
+    <string name="lable_all_incoming">Alle eingehenden Anrufe</string>
+    <string name="lable_incoming_calls_except">Eingehende Anrufe bei Roaming</string>
+    <string name="deactivate_all">Alle abbrechen</string>
+    <string name="change_password">Anrufsperre Passwort ändern</string>
+    <string name="call_barring_sum">Anrufsperre Einstellungen</string>
+    <string name="lable_disable">Ausgeschaltet</string>
+    <string name="lable_enable">Eingeschaltet</string>
+    <string name="old_password_label">Altes Passwort(4 Ziffern)</string>
+    <string name="new_password_label">Neues Passwort(4 Ziffern)</string>
+    <string name="invalid_password">Geben Sie eine Pin mit 4 Ziffern ein.</string>
+    <string name="confirm_password_label">Neues Passwort bestätigen</string>
+    <string name="mismatch_password">Das eingegebene Passwort stimmt nicht überein. Bitte versuchen Sie es erneut.</string>
+    <string name="password_changed">Password wurde geändert</string>
+    <string name="enter_callbarring_password">Passwort für Anrufsperre eingeben(4 Ziffern)</string>
+    <string name="wrong_password">Passwort Fehler</string>
     <string name="suspect_info">Vorsicht: Sie sollten bei erstem Kontakt immer die Indentität prüfen bevor Sie auf Nachrichten über ihre Finanzen antworten.</string>
     <string name="callwait_open_hint">\"Call waiting\" is a feature provided by your mobile service provider. If you receive an error notification, contact your service provider and make sure that this feature is enabled for your number.</string>
     <string name="corporate_unlock_failed">Entsperren der Corporate-SIM fehlgeschlagen.</string>
@@ -988,6 +1007,5 @@ Achtung: SIM-Karte wird bei erneuter Fehleingabe dauerhaft gesperrt!"</string>
     <string name="nw_unlock_failed">SIM-Netzwerk Entsperranfrage nicht erfolgreich.</string>
     <string name="nw_subset_unlock_failed">SIM-Netzwerk-Subset Entsperranfrage nicht erfolgreich.</string>
     <string name="sp_unlock_failed">SIM-Dienstanbieter Entsperranfrage nicht erfolgreich.</string>
-    <string name="puk_unlock_failed">PUK-Entsperrung fehlgeschlagen.</string>
-    <string name="rc_unlock_success">Firmen-RUIM erfolgreich entsperrt.</string>
+    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
 </resources>

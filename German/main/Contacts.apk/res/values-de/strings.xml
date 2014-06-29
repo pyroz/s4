@@ -731,6 +731,12 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="dialog_voicemail_not_ready_message">Zum Einrichten der Mailbox gehen Sie in das Menü > Einstellungen.</string>
     <string name="dialog_voicemail_airplane_mode_message">Um die Mailbox anrufen zu können, zuerst den Flugmodus ausschalten.</string>
     <string name="action_menu_overflow_description">Mehr Optionen</string>
+    <string name="cta_notice_title">Erinnern</string>
+    <string name="cta_notice_new_contact_message">Um Kontakte im Konto \"%s\" zu speichern ist Onlinezugriff erforderlich. Erlauben?</string>
+    <string name="cta_notice_photo_message">Kontaktfotos über ein Fotopaket ändern erfordert Onlinezugriff. Erlauben?</string>
+    <string name="cta_notice_checkbox">Merken</string>
+    <string name="cta_notice_ok">Zustimmen</string>
+    <string name="cta_notice_settings">Erinnern Sie bei Onlinezugriff</string>
     <string name="summary_kind_title">Zusammenfassung</string>
     <string name="callrecordview_item_newcontact">Neuer Kontakt</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d Min %2$d Sek</string>
@@ -1141,6 +1147,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
     <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
+    <string name="yellowpage_navigation_network_location_enabled">Dienst eingeschaltet. Sie können ihn in den Standort-Einstellungen ausschalten</string>
     <string name="sim_contact_number_missing">SIM Kontakt Nummer fehlt.</string>
     <string name="import_from_sim1">Von SIM-Karte 1 importieren</string>
     <string name="export_to_sim1">Auf SIM-Karte 1 exportieren</string>
